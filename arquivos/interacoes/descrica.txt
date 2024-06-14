@@ -1,0 +1,26 @@
+Salão Geral: Onde se consegue acessar todas as salas
+Salão do Trono: Onde o rei recebe visitantes e realiza audiências.
+Biblioteca Secreta: Uma biblioteca escondida, contendo conhecimento proibido.
+Masmorra: Uma prisão sombria para os inimigos do castelo.
+Salão de Banquete: Onde banquetes suntuosos são realizados para os convidados.
+Torre do Mago: O local de estudo e experimentação do mago real.
+Jardim Suspenso: Um jardim exuberante, situado em uma plataforma elevada.
+Laboratório de Alquimia: Onde poções e elixires são preparados e testados.
+Salão de Espadas: Uma sala de treinamento equipada com armas afiadas.
+Aposentos Reais: Os quartos privados da realeza, ricamente decorados.
+Passagem Secreta: Uma passagem oculta que leva a lugares desconhecidos.
+Capela: Um local sagrado para orações e cerimônias religiosas.
+Entrada: A entrada majestosa do castelo, guardada por portões imponentes.
+Jardim de Inverno: Um jardim coberto, mantido verde mesmo durante o inverno.
+Câmara dos Tesouros: Onde os tesouros e relíquias valiosas são guardados.
+Salão da Música: Um salão dedicado a concertos e apresentações musicais.
+Estábulos: Onde os cavalos do castelo são abrigados e cuidados.
+Cozinha: O coração do castelo, onde os chefs preparam refeições deliciosas.
+Armaria: Onde as armas e armaduras do exército são armazenadas.
+Galeria de Arte: Uma coleção de obras de arte preciosas e esculturas.
+Sala de Mapas: Onde mapas e planos estratégicos são mantidos atualizados.
+Câmara de Tortura: Um lugar sombrio usado para interrogatórios brutais.
+Torre de Vigia: Uma torre alta usada para observação e vigilância.
+Pátio Interno: Um pátio tranquilo dentro das muralhas do castelo.
+Câmara de Relíquias: Onde antigas relíquias e artefatos são preservados.
+Varanda: Um local para desfrutar da vista panorâmica dos arredores do castelo.

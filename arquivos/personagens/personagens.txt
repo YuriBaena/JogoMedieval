@@ -1,0 +1,24 @@
+1:Guarda Real-Amigo- Coroa Real 👑-Pó Mágico (Sala 7) -
+2:Bibliotecário Fantasma-Amigo-Livro dos Feitiços 📖-Mapa Secreto (Sala 20) -
+3:Ratosauro-Inimigo-Tridente-Adaga Envenenada (Sala 4) - ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
+4:Mordomo Vampiro-Inimigo-Adaga Envenenada-Escudo de Prata (Sala 8) - ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
+5:Mago-Amigo-Varinha Mágica 🪄-Cristal de Energia (Sala 9) -
+6:Guardião do Jardim-Amigo-Dica 🧩-Elixir de Cura (Sala 17) -
+7:Alquimista-Amigo-Gás de fumaça 🌫️-Elixir da Força (Sala 7) -
+8:Guarda do Salão-Inimigo-Desafia o jogador pela Espada Lendária-Espada Longa (Sala 18) - ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
+9:Rei Zumbi-Inimigo-Lâmina Afiada-Tridente (Sala 3) - ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
+10:Guardião do Segredo-Amigo-Chave Secreta 🗝️-Livro dos Feitiços (Sala 2) -
+11:Padre-Amigo-Cruz Sagrada ✝-Vela Mística (Sala 11) -
+13:Boneco de Neve-Amigo-Flor de Gelo 🥀-Joia Encantada (Sala 14) -
+14:Guardião do Tesouro-Inimigo-Guarda ferozmente o Baú de Ouro-Lira Mística (Sala 15) - ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
+15:Maestro-Amigo-Lira Mística 🎶-Laço de Ouro (Sala 16) -
+16:Estábulo Mestre-Amigo-Cavalo para ser seu ajudante 🐎-Ferradura Mística (Sala 16) -
+17:Cozinheiro Fantasma-Amigo-Facão do Chef 🔪-Elixir de Cura (Sala 17) -
+18:Armeiro-Amigo-Martelo de Guerra 🔨-Lança de Prata (Sala 18) -
+19:Curador-Amigo-Pintura Enfeitiçada 🖼️-Lente Mágica (Sala 19) -
+20:Cartógrafo-Amigo-Mapa Secreto 🗺️-Corrente de Ferro (Sala 21) -
+21:Torturador-Inimigo-Aplica torturas brutais-Lâmina Afiada (Sala 9) - ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️ ❤️
+22:Sentinela-Amigo-Chave do Tempo 🔑-Corneta do Vigia (Sala 22) -
+23:Guarda do Pátio-Amigo-Relíquias Ancestrais 🏺-Amuleto de Poder (Sala 24) -
+24:Colecionador de Relíquias-Amigo-Dica 🧩-Véu Místico (Sala 25) -
+25:Guarda da Varanda-Amigo-Dica 🧩-Capacete de Aço (Sala 25) -
