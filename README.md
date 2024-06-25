@@ -1,1 +1,1 @@
-This was the first challenge I had, to code a text game in python
+Jogo no console em python, um jogo medieval com lutas, interacoes, itens e movimentacao no console.
