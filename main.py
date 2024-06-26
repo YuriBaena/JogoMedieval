@@ -291,66 +291,66 @@ def adiciona_ao_inventario(item, descricao):
     else:
         if "👑" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
-                inv.write(f"Coroa Real: Atira raios poderosos pelos diamantes{item}\n")
+                inv.write(f"Coroa Real: Atira raios poderosos pelos diamantes 👑\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "📖" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
-                inv.write(f"Livro dos Feitiços: Amaldiçoa o oponente{item}\n")
+                inv.write(f"Livro dos Feitiços: Amaldiçoa o oponente 📖\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "🪄" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
-                inv.write(f"Varinha Mágica: Faz loucuras{item}\n")
+                inv.write(f"Varinha Mágica: Faz loucuras 🪄\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "🌫" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
-                inv.write(f"Gás de fumaça: Da dano ao oponente{item}\n")
+                inv.write(f"Gás de fumaça: Da dano ao oponente 🌫\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "🗝️" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
-                inv.write(f"Chave Secreta: Abre um portal para outra dimensao para um monstro vir de la {item}\n")
+                inv.write(f"Chave Secreta: Abre um portal para outra dimensao para um monstro vir de la 🗝️\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "✝" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
-                inv.write(f"Cruz Sagrada: Um espirito do bem vem te proteger {item}\n")
+                inv.write(f"Cruz Sagrada: Um espirito do bem vem te proteger ✝\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "🥀" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
-                inv.write(f"Flor de Gelo: Congela um membro do inimigo{item}\n")
+                inv.write(f"Flor de Gelo: Congela um membro do inimigo 🥀\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "🎶" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
-                inv.write(f"Lira Mística: Desnorteia oponente{item}\n")
+                inv.write(f"Lira Mística: Desnorteia oponente 🎶\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "🐎" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
-                inv.write(f"Cavalo Real: Treinado para te ajudar em combates{item}\n")
+                inv.write(f"Cavalo Real: Treinado para te ajudar em combates 🐎\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "🔪" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
-                inv.write(f"Facão do Chef: Ao ser lançada com um alvo em mente, ela seguira o alvo{item}\n")
+                inv.write(f"Facão do Chef: Ao ser lançada com um alvo em mente, ela seguira o alvo 🔪\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "🗺" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
                 inv.write(
-                    f"Mapa Secreto: Se desenhado sobre ele criara os objetos desenhados nos lugares que foram desenhados em cima{item}\n")
+                    f"Mapa Secreto: Se desenhado sobre ele criara os objetos desenhados nos lugares que foram desenhados em cima 🗺\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "🔨" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
                 inv.write(
-                    f"Martelo de Guerra: Prende oponente por certo tempo para que voce possa causar-lhe dano{item}\n")
+                    f"Martelo de Guerra: Prende oponente por certo tempo para que voce possa causar-lhe dano 🔨\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "️🖼" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
-                inv.write(f"Pintura Enfeitiçada: Sai um desenho aleatorio do quadro para te ajudar a lutar{item}\n")
+                inv.write(f"Pintura Enfeitiçada: Sai um desenho aleatorio do quadro para te ajudar a lutar 🖼\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "🔑" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
-                inv.write(f"Chave do Tempo: Para o tempo por 10 segundos para conseguir atacar o inimigo{item}\n")
+                inv.write(f"Chave do Tempo: Para o tempo por 10 segundos para conseguir atacar o inimigo 🔑\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "🏺" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
                 inv.write(
-                    f"Relíquias Ancestrais: Cinzas viram o melhor lutador da Grecia antiga para te ajudar em combate{item}\n")
+                    f"Relíquias Ancestrais: Cinzas viram o melhor lutador da Grecia antiga para te ajudar em combate 🏺\n")
             print(f"Item adicionado ao inventário: {item}")
         elif "🧩" in item:
             with open("arquivos/interacoes/inventario.txt", "a") as inv:
